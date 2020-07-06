@@ -52,6 +52,7 @@ var CurrentResidue;
  
 
 	 	document.querySelector("#displayIncomeResultId1").innerHTML= `Total Assets: ${sumSalaryValue}`;
+	 	    document.querySelector("#displayIncomeResultId2").innerHTML= `Total Assets: ${sumSalaryValue}`;
 	 	
 
 	 	console.log(`Total is ${sumSalaryValue}`)
